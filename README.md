@@ -3,7 +3,7 @@
 # 🍓Mafê Pires
 Olá! Eu sou a Maria Fernanda — ou Mafê.
 
-Sou desenvolvedora em formação com foco atual em Java e AWS, buscando me tornar uma profissional fullstack completa
+Sou desenvolvedora em formação com foco atual em Java e AWS, buscando me tornar uma profissional fullstack completa.
 
 Tenho formação em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software pela UMC e MBA em Gestão de Projetos pela USP.
 

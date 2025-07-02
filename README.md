@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4D50&width=435&lines=%E2%80%A7%E2%82%8A%CB%9A+Seja+bem-vindo+ao+meu+perfil!+%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1" alt="Typing SVG" /></a>
+
 ## Hi there 👋
 
 <!--

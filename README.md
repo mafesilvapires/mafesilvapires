@@ -1,18 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4D50&width=435&lines=%E2%80%A7%E2%82%8A%CB%9A+Seja+bem-vindo+ao+meu+perfil!+%E2%82%8A%CB%9A%E2%8A%B9%E2%99%A1" alt="Typing SVG" /></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4D50&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!+💻" alt="Typing SVG" />
+</div>
 
-## Hi there 👋
+# 🍓Mafê Pires
+Olá! Eu sou a Maria Fernanda — ou Mafê.
 
-<!--
-**mafesilvapires/mafesilvapires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora em formação com foco atual em Java e AWS, buscando me tornar uma profissional fullstack completa.
+Sou formada em Análise e Desenvolvimento de Sistemas, atualmente curso Engenharia de Software na UMC e um MBA em Gestão de Projetos pela USP. Além disso, tenho uma base forte em Design, com anos de experiência na área e prêmios em seletivas Adobe 🏆
 
-Here are some ideas to get you started:
+Trago esse olhar criativo pro mundo do desenvolvimento, com especial interesse em UX/UI, buscando sempre unir estética, funcionalidade e uma boa experiência para quem usa. Gosto de pensar em soluções que façam sentido de verdade, tanto no visual quanto no código. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills e Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=aws,python,java,mysql,postgres,php,html,css,figma,photoshop,illustrator,postman,bootstrap)](https://skillicons.dev)
+
+Tenho experiência em Design Gráfico e UX/UI, com foco em prototipação, wireframes e interfaces centradas no usuário.
+Atuo também com ferramentas no-code e automações como Bubble, FlutterFlow, n8n e Make, além de aplicar metodologias ágeis (Scrum e Kanban) no dia a dia.
+
+### Onde me encontrar:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23ff4d50.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafepires/)
+
+### Estatísticas GitHub:
+https://github.com/mafesilvapires/github-readme-stats
+
+

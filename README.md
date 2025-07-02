@@ -3,10 +3,11 @@
 # 🍓Mafê Pires
 Olá! Eu sou a Maria Fernanda — ou Mafê.
 
-Sou desenvolvedora em formação com foco atual em Java e AWS, buscando me tornar uma profissional fullstack completa.
-Sou formada em Análise e Desenvolvimento de Sistemas, atualmente curso Engenharia de Software na UMC e um MBA em Gestão de Projetos pela USP. Além disso, tenho uma base forte em Design, com anos de experiência na área e prêmios em seletivas Adobe 🏆
+Sou desenvolvedora em formação com foco em Java e AWS, buscando me tornar fullstack. 
 
-Trago esse olhar criativo pro mundo do desenvolvimento, com especial interesse em UX/UI, buscando sempre unir estética, funcionalidade e uma boa experiência para quem usa. Gosto de pensar em soluções que façam sentido de verdade, tanto no visual quanto no código. 🚀
+Tenho formação em Análise e Desenvolvimento de Sistemas, e atualmente curso Engenharia de Software pela UMC e MBA em Gestão de Projetos pela USP.
+
+Tenho uma base sólida em Design, com anos de experiência e prêmios em seletivas da Adobe 🏆. Levo esse olhar criativo pro desenvolvimento, com foco especial em UX/UI, sempre unindo estética, funcionalidade e boas experiências para o usuário, tanto no visual quanto no código 🚀
 
 ### Skills e Ferramentas:
 [![My Skills](https://skillicons.dev/icons?i=aws,python,java,mysql,postgres,php,html,css,figma,photoshop,illustrator,postman,bootstrap)](https://skillicons.dev)

@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4D50&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!+💻" alt="Typing SVG" />
-</div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9fcf52&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a></div>
 
 # 🍓Mafê Pires
 Olá! Eu sou a Maria Fernanda — ou Mafê.
@@ -17,9 +15,6 @@ Tenho experiência em Design Gráfico e UX/UI, com foco em prototipação, wiref
 Atuo também com ferramentas no-code e automações como Bubble, FlutterFlow, n8n e Make, além de aplicar metodologias ágeis (Scrum e Kanban) no dia a dia.
 
 ### Onde me encontrar:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23ff4d50.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafepires/)
-
-### Estatísticas GitHub:
-https://github.com/mafesilvapires/github-readme-stats
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23db345c.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mafepires/)
 
 

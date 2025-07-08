@@ -1,6 +1,6 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9fcf52&center=true&vCenter=true&width=435&lines=Seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a></div>
 
-# 🍓Mafê Pires
+# Mafê Pires
 Olá! Eu sou a Maria Fernanda — ou Mafê.
 
 Sou desenvolvedora em formação com foco atual em Java e AWS, buscando me tornar uma profissional fullstack completa.
